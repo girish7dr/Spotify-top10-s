@@ -121,27 +121,13 @@ Three classification algorithms are evaluated:
 
 A linear classification model trained using standardized features.
 
-**Test Accuracy:** `95.58%`
-
 ### 2. Decision Tree
 
 A decision-tree classifier trained on the feature set.
 
-**Test Accuracy:** `100%`
-
 ### 3. Random Forest
 
 An ensemble model consisting of **200 decision trees**.
-
-**Test Accuracy:** `100%`
-
-### Model Comparison
-
-| Model               | Test Accuracy |
-| ------------------- | ------------: |
-| Logistic Regression |    **95.58%** |
-| Decision Tree       |      **100%** |
-| Random Forest       |      **100%** |
 
 The notebooks also generate **classification reports** and **confusion matrices** to evaluate model performance.
 
